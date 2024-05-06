@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Resume - Fullstack Web Dev & Software Engineer</title>
+</head>
+
+<body>
+  <h1>Benjamin Maxwell</h1>
+  <img src="./profile-img.png" alt="profile image of Benjamin Maxwell" height="100">
+
+  <h2>Summary</h2>
+  <p>I am a hardworking and dedicated individual with experience in Finance, Banking, Higher Education, Startups and Information Technology. 
+    As a dedicated and educated software engineer and full stack web developer, I am always working on projects to help solve problems. 
+    After enjoying various software projects, I decided to switch from a financial sales role into a technical software developers career path. 
+    My career transition has been progressing with help from friends, mentors, and lots of coffee!</p>
+  <hr />
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor of Science, Business Administration - University of Arkansas</li>
+    <li>Harvard CS50</li>
+    <li>MIT Intro to Computer Science</li>
+    <li>Collin COllege - Network Communications</li>
+    <li>Brew Academy - Web Developers Fullstack Bootcamp</li>
+  </ul>
+  <hr />
+  <h2>Work Experience</h2>
+  <ul>
+    <li>
+      <h3>Inside Sales Lead - 7eleven (Contractor)</h3>
+      <p>2024 - Present</p>
+      <ul>
+        <li>Managing a team of 15 account executives to deliver weekly targets of 375 calls, 38 decision maker connections, 8 new opportunities, and 4 won deals.</li>
+        <li>RConceptualized and implemented sales scripts to leverage automative sequences to improve team conversion metrics by 300% weekly./li>
+        <li>Leveraged forecasting tools in Excel to exceed team metrics by 80% within the first 90 days of our new product launch</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Business Development Analyst (Remote) - Pearson (Restructure)</h3>
+      <p>2022 - 2024</p>
+      <ul>
+        <li>Maintained a 90%-win rate for 14 months establishing a track record as the top-performing Business Development Analyst.</li>
+        <li>Executed 75+ daily outbound connections with email, phone, and Salesforce Cadence, to uncover and win $1million+ in product sales monthly.</li>
+        <li>Leveraged 3 large sales database tools; Salesforce, Linkedin Navigator, and ZoomInfo to conduct efficient prospect research to establish connection.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Business Development Manager (Remote) - Rumby (Board Takeover)</h3>
+      <p>2021 - 2022</p>
+      <ul>
+        <li>Interviewed, trained, and remotely managed 4 Sales Development Representatives.</li>
+        <li>Grew partnered accounts by 1500% across 35 U.S states within 9 months.</li>
+        <li>Exceeded yearly goals for won deals by 700%, skyrocketing number of accounts from 3 to 1400 in 2021 to 2022</li>
+      </ul>
+    </li>
+  </ul>
+  <hr />
+  <h2>Skills</h2>
+  <ul>
+    <li>Relationship Management: ⭐️⭐️⭐️⭐️⭐️</li>
+    <li>Team Management: ⭐️⭐️⭐️⭐️⭐️</li>
+    <li>Microsoft Office Suite: ⭐️⭐️⭐️</li>
+    <li>Organizational skills: ⭐️⭐️⭐️⭐️</li>
+  </ul>
+  <hr />
+  <h2>Volunteering</h2>
+  <ul>
+    <li>Volunteer VP of Social Media and Website Design - Frisco Write Club (2023-Present)</li>
+  </ul>
+  <hr />
+  <h2>Other</h2>
+  <ul>
+    <li><a href="./hobbies.html">My Hobbies</a></li>
+    <li><a href="./contact.html">Contact Me</a></li>
+  </ul>
+  <footer>
+    <p>© Benjamin Maxwell. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
